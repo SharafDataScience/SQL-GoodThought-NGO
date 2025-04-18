@@ -54,6 +54,8 @@ Contains information about the donors funding GoodThought’s initiatives.
 - Each **donor** can make **multiple donations**.
 - Each **donation** is linked to a single **assignment** and **donor**.
 
+![image](https://github.com/user-attachments/assets/31d59807-c2d0-44ee-b151-1ddecd486f3a) 
+
 
 ## Project Goals
 
