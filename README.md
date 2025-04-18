@@ -56,6 +56,15 @@ Contains information about the donors funding GoodThought’s initiatives.
 
 ![image](https://github.com/user-attachments/assets/31d59807-c2d0-44ee-b151-1ddecd486f3a) 
 
+## Project Questions
+
+1. **Which are the top five assignments based on the total value of donations, categorized by donor type?**  
+   - Output should include: `assignment_name`, `region`, `rounded_total_donation_amount` (rounded to two decimal places), and `donor_type`.  
+   - Results should be sorted by total donation amount in descending order.
+
+2. **What is the assignment with the highest impact score in each region, considering only those assignments that received at least one donation?**  
+   - Output should include: `assignment_name`, `region`, `impact_score`, and `num_total_donations`.  
+   - Return only one assignment per region, sorted by region in ascending order.
 
 ## Project Goals
 
